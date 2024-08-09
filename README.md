@@ -1,3 +1,4 @@
-# Video of 
-This image showcases a scenario where a robot is tasked with grasping a peach that is positioned on a table but obscured by a bed. 
+# Real-world testing videos of Fusion GraspNet
+
+This repository contains 24 experimental videos from 8 real-world scenarios, each scene testing three models: Ours (Fusion GraspNet), GSNet, and baseline (GraspNet-Baseline).
 
